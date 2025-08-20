@@ -64,5 +64,3 @@ Use a HubSpot **Webhook** action in a Workflow to receive these (set `HUBSPOT_WE
 ## Next steps (SAP B1 tomorrow)
 - Implement Service Layer calls in a thin client and replace mocks in backend routes.
 - Add real persistence (move from in-memory to Postgres via `db.py`).
-
-— Enjoy!
